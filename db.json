@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Eloise Jerde",
+      "id": 2
+    },
+    {
+      "name": "Paul Schinner",
+      "id": 3
+    },
+    {
+      "name": "Earl Labadie-Flatley II",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 2
+    },
+    {
+      "userId": 2,
+      "title": "Fantastic Soft Pants",
+      "id": 11
+    }
+  ],
+  "photos": []
+}
