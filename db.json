@@ -15,14 +15,19 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 2
-    },
-    {
       "userId": 2,
       "title": "Fantastic Soft Pants",
       "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Rubber Shirt",
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Wooden Bacon",
+      "id": 13
     }
   ],
   "photos": []
